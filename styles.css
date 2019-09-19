@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h1>HTML and CSS Workshop</h1>
+  <h2>This is going to be so much fun!!!</h2>
+  <div>
+    <p>I enjoy learning about Coding</P>
+    <P>Pizza starts to smell after a while</p>
+    <p>I love Technogy</p>
+  </div>
+  <ol>
+    <li class="yellow-background" id="make-me-green">Going on bike rides</li>
+    <li id="make-me-orange">Waking up early, NOT</li>
+    <li class="red-background">
+      Games
+      <ul>
+        <li>madeam</li>
+        <li>barbacoa</li>
+      </ul>
+    </li>
+  </ol>
+   <img src="https://cdn2-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg"/>
+  
+ </body>
+</html>
